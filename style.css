@@ -1,0 +1,12 @@
+* {
+  font-family: 'Allerta', arial, Tahoma;
+  box-sizing: border-box;
+}
+body {
+  background: linear-gradient(to left, #7700aa, #8800ff);
+  background-image: url("myComponents/assets/imgs/backround.jpeg");
+  text-align:center;
+  color:#fff;
+  margin-top: 10%;
+}
+
